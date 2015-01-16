@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="LOZ">
+</Property><Property Name="Solution File" Value="C:\Users\Karl\Desktop\LOZ\LOZ.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Karl\Desktop\LOZ\LOZ.suo">
+</Property><Property Name="Date" Value="December-07-12">
+</Property><Property Name="Time" Value="15:25 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="LOZ.sln" Description="File successfully backed up as C:\Users\Karl\Desktop\LOZ\LOZ.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="LOZ.suo" Description="File successfully backed up as C:\Users\Karl\Desktop\LOZ\LOZ.suo.old">
+</Event><Event ErrorLevel="0" Project="LOZ" Source="LOZ\LOZ.vcproj" Description="Converting project file 'C:\Users\Karl\Desktop\LOZ\LOZ\LOZ.vcproj'.">
+</Event><Event ErrorLevel="1" Project="LOZ" Source="LOZ\LOZ.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="LOZ" Source="LOZ\LOZ.vcproj" Description="Done converting to new project file 'C:\Users\Karl\Desktop\LOZ\LOZ\LOZ.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="LOZ" Source="LOZ\LOZ.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="LOZ.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="LOZ.sln" Description="Converted">
+</Event></UpgradeLog>
